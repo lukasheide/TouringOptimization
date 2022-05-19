@@ -1,2 +1,5 @@
 *.csv
 blog/.
+.idea
+.DS_Store
+my_env/.
