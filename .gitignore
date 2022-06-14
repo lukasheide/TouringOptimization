@@ -1,5 +1,9 @@
 *.csv
-blog/*
+blog/
 .idea
 .DS_Store
-my_env/*
+my_env/
+.ipynb_checkpoints/
+Cache/
+Tilescache/
+firstAttempt.ipynb
